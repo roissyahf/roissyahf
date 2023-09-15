@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-My name is **Roissyah Fernanda**, I'm a Data Science Enthusiast who is actively involved in personal project-based learning.
+My name is **Roissyah Fernanda**, I'm a Data Science enthusiast who is deeply engaged in self-directed project-driven learning. 
 
-- 🌱 I'm looking for any kind of opportunity to enhance both technical and soft skills
-- 👯 I’m looking to collaborate on projects related to Data Analytics, Data Science, or Machine Learning
-- 📫 How to reach me: Just drop me a message in Linkedin
+- 🌱 I'm actively seeking opportunities to improve my technical and interpersonal abilities.
+- 👯 I'm interested in partnering on projects within the realms of Data Analytics, Data Science, or Machine Learning.
+- 📫 How to reach me: Just drop me a message on Linkedin
 - 😄 Pronouns: Just call me Nanda
