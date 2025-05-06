@@ -1,11 +1,13 @@
-## Hi there 👋
+## Hello 👋
 
-My name is **Roissyah Fernanda**, I'm a Data Science enthusiast who is deeply engaged in self-directed project-driven learning. 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D0F7&width=435&lines=I'm+Nanda;A+Data+Scientist;I+have+a+thirst+for+knowledge)](https://git.io/typing-svg)
 
 - 🌱 I'm actively seeking opportunities to improve my technical and interpersonal abilities.
-- 👯 I'm interested in partnering on projects within the realms of Data Analytics, and Machine Learning.
+- 👯 I'm interested in partnering on projects within the realms of Data Analytics, Data Science, and Machine Learning.
 - 📫 How to reach me: Drop a message on [LinkedIn](https://www.linkedin.com/in/roissyahfernanda/)
-- 😄 Pronouns: Just call me Nanda
+
+[![My Skills](https://skillicons.dev/icons?i=python,flask,tensorflow,aws&theme=light)](https://skillicons.dev)
 
 ![Nanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=roissyahf)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roissyahf&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roissyahf&hide_progress=true)
