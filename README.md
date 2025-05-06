@@ -6,3 +6,6 @@ My name is **Roissyah Fernanda**, I'm a Data Science enthusiast who is deeply en
 - 👯 I'm interested in partnering on projects within the realms of Data Analytics, and Machine Learning.
 - 📫 How to reach me: Drop a message on [LinkedIn](https://www.linkedin.com/in/roissyahfernanda/)
 - 😄 Pronouns: Just call me Nanda
+
+![Nanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=roissyahf)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roissyahf&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
