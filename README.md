@@ -6,7 +6,7 @@
 - 👯 I'm interested in partnering on projects within the realms of Data Analytics, Data Science, MLOps, and Generative AI.
 - 📫 How to reach me: Drop a message on [LinkedIn](https://www.linkedin.com/in/roissyahfernanda/)
 
-[![My Skills](https://skillicons.dev/icons?i=python,flask,tensorflow,aws,azure&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,flask,docker,tensorflow,pytorch&theme=light)](https://skillicons.dev)
 
 ![Nanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=roissyahf)
 
